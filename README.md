@@ -2,9 +2,9 @@
 
 This repository contains the minimal de-identified dataset accompanying the manuscript:
 
-> **"Causal effect of loss to follow-up on mortality in a population-based tuberculosis cohort in Brazil"** (submitted to *PLOS Medicine*, 2026).
+> **"Causal effect of loss to follow-up on mortality in a population-based tuberculosis cohort in Brazil"** (2026).
 
-It is provided to satisfy the journal's data availability requirement and to support independent verification and re-analysis.
+It is provided to support independent verification and re-analysis.
 
 ## Files
 
