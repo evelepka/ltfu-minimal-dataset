@@ -2,7 +2,7 @@
 
 This repository contains the minimal de-identified dataset accompanying the manuscript:
 
-> **"Causal effect of loss to follow-up on mortality in a population-based tuberculosis cohort in Brazil"** (2026).
+> Lepka de Lima E, et al. **"Loss to follow-up during tuberculosis treatment and five-year mortality in Brazil: a target trial emulation."** *PLOS Medicine* (2026).
 
 It is provided to support independent verification and re-analysis.
 
